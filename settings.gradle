@@ -1,2 +1,2 @@
-include ':app', ':myapplication1', ':myapplication2'
-rootProject.name='MyFirst App'
+include ':app'
+rootProject.name='MyStd App'
