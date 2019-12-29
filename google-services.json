@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348459754533",
+    "firebase_url": "https://notebookapp-688f0.firebaseio.com",
+    "project_id": "notebookapp-688f0",
+    "storage_bucket": "notebookapp-688f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348459754533:android:1a122b83048c724b668bcc",
+        "android_client_info": {
+          "package_name": "com.aug.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348459754533-g600t04c59iclt7fthk54dbi5u02rp0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAR0vsFeLF-5sQclL9y76ipOiVD9qYodU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348459754533-g600t04c59iclt7fthk54dbi5u02rp0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
